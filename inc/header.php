@@ -1,3 +1,4 @@
+<?php include 'config/database.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,7 +16,7 @@
   <body>
     <nav class="navbar navbar-expand-sm navbar-light bg-light mb-4">
       <div class="container">
-        <a class="navbar-brand" href="#">Traversy Media</a>
+        <a class="navbar-brand" href="#">Simple Feedback Form</a>
         <button
           class="navbar-toggler"
           type="button"
