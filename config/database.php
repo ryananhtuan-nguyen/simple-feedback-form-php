@@ -1,7 +1,7 @@
 <?php
   define("DB_HOST", "localhost");
   define("DB_USER", "ryan");
-  define("DB_PASS", "Vn00918594");
+  define("DB_PASS", "Abc123");
   define("DB_NAME", "php_dev");
 
   //Create connection
